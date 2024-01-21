@@ -12,13 +12,14 @@ body {
     width: 100%;
 }
 
-.logo {
-    font-family: Play;
-    font-size: 23px;
-    color: #bdbb33;
-    text-align: center;
-    background-color: #000000;
-    position: top;
+.logo  {
+background-color: #EFEFEF;
+height: 50%;
+}
+
+.logo .img {
+  height: 80px;
+  justify-content: center;
 }
 
 p {
@@ -107,7 +108,7 @@ a:link {
     transition: all 0.5s;
     cursor: pointer;
     margin: 5px;
-    position:absolute; 
+    position:fixed; 
     margin-left:-50px;
     left:50%;
     width:150px;
