@@ -1,3 +1,3 @@
 contributors:
-> J. Ramackers
-> S. Mihajlovic
+- J. Ramackers
+- S. Mihajlovic
